@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-job-posting-liveness-checker": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-job-posting-liveness-checker"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

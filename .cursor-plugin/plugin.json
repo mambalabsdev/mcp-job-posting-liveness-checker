@@ -1,0 +1,37 @@
+{
+  "name": "mcp-job-posting-liveness-checker",
+  "displayName": "Job Posting Liveness Checker",
+  "version": "1.0.0",
+  "description": "MCP server for Job Posting Liveness Checker. Check if job postings are still open, with posted date and age. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-job-posting-liveness-checker",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "job posting",
+    "job still open",
+    "job posted date",
+    "greenhouse",
+    "lever",
+    "workday",
+    "ashby",
+    "hiring signals"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "job posting",
+    "job still open",
+    "job posted date",
+    "greenhouse",
+    "lever",
+    "workday",
+    "ashby",
+    "hiring signals"
+  ],
+  "mcpServers": ".mcp.json"
+}
