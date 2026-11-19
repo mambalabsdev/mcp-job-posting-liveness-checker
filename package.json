@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-job-posting-liveness-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Job Posting Liveness Checker. Check if job postings are still open, with posted date and age. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
